@@ -1,2 +1,2 @@
 # julia_modsoc
-materials for presentation of the julia language to MODSOC, 2021
+materials for Julia workshops. 2021 and 2023.
